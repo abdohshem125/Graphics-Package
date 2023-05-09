@@ -1,0 +1,22 @@
+C:\bresenham\bin\Debug\bresenham.exe.config
+C:\bresenham\bin\Debug\bresenham.exe
+C:\bresenham\bin\Debug\bresenham.pdb
+C:\bresenham\obj\Debug\bresenham.csproj.AssemblyReference.cache
+C:\bresenham\obj\Debug\bresenham.csproj.SuggestedBindingRedirects.cache
+C:\bresenham\obj\Debug\bresenham.Form1.resources
+C:\bresenham\obj\Debug\bresenham.Properties.Resources.resources
+C:\bresenham\obj\Debug\bresenham.csproj.GenerateResource.cache
+C:\bresenham\obj\Debug\bresenham.csproj.CoreCompileInputs.cache
+C:\bresenham\obj\Debug\bresenham.exe
+C:\bresenham\obj\Debug\bresenham.pdb
+C:\Graphics Package\bresenham\bin\Debug\bresenham.exe.config
+C:\Graphics Package\bresenham\bin\Debug\bresenham.exe
+C:\Graphics Package\bresenham\bin\Debug\bresenham.pdb
+C:\Graphics Package\bresenham\obj\Debug\bresenham.csproj.AssemblyReference.cache
+C:\Graphics Package\bresenham\obj\Debug\bresenham.csproj.SuggestedBindingRedirects.cache
+C:\Graphics Package\bresenham\obj\Debug\bresenham.Form1.resources
+C:\Graphics Package\bresenham\obj\Debug\bresenham.Properties.Resources.resources
+C:\Graphics Package\bresenham\obj\Debug\bresenham.csproj.GenerateResource.cache
+C:\Graphics Package\bresenham\obj\Debug\bresenham.csproj.CoreCompileInputs.cache
+C:\Graphics Package\bresenham\obj\Debug\bresenham.exe
+C:\Graphics Package\bresenham\obj\Debug\bresenham.pdb
