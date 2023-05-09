@@ -1,0 +1,22 @@
+C:\DDALine\bin\Debug\DDALine.exe.config
+C:\DDALine\bin\Debug\DDALine.exe
+C:\DDALine\bin\Debug\DDALine.pdb
+C:\DDALine\obj\Debug\DDALine.csproj.AssemblyReference.cache
+C:\DDALine\obj\Debug\DDALine.csproj.SuggestedBindingRedirects.cache
+C:\DDALine\obj\Debug\DDALine.Form1.resources
+C:\DDALine\obj\Debug\DDALine.Properties.Resources.resources
+C:\DDALine\obj\Debug\DDALine.csproj.GenerateResource.cache
+C:\DDALine\obj\Debug\DDALine.csproj.CoreCompileInputs.cache
+C:\DDALine\obj\Debug\DDALine.exe
+C:\DDALine\obj\Debug\DDALine.pdb
+C:\Graphics Package\DDALine\bin\Debug\DDALine.exe.config
+C:\Graphics Package\DDALine\bin\Debug\DDALine.exe
+C:\Graphics Package\DDALine\bin\Debug\DDALine.pdb
+C:\Graphics Package\DDALine\obj\Debug\DDALine.csproj.AssemblyReference.cache
+C:\Graphics Package\DDALine\obj\Debug\DDALine.csproj.SuggestedBindingRedirects.cache
+C:\Graphics Package\DDALine\obj\Debug\DDALine.Form1.resources
+C:\Graphics Package\DDALine\obj\Debug\DDALine.Properties.Resources.resources
+C:\Graphics Package\DDALine\obj\Debug\DDALine.csproj.GenerateResource.cache
+C:\Graphics Package\DDALine\obj\Debug\DDALine.csproj.CoreCompileInputs.cache
+C:\Graphics Package\DDALine\obj\Debug\DDALine.exe
+C:\Graphics Package\DDALine\obj\Debug\DDALine.pdb

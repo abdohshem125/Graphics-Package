@@ -1,0 +1,22 @@
+C:\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe.config
+C:\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe
+C:\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.pdb
+C:\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.AssemblyReference.cache
+C:\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.SuggestedBindingRedirects.cache
+C:\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Form1.resources
+C:\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Properties.Resources.resources
+C:\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.GenerateResource.cache
+C:\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.CoreCompileInputs.cache
+C:\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.exe
+C:\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.pdb
+C:\Graphics Package\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe.config
+C:\Graphics Package\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe
+C:\Graphics Package\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.pdb
+C:\Graphics Package\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.AssemblyReference.cache
+C:\Graphics Package\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.SuggestedBindingRedirects.cache
+C:\Graphics Package\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Form1.resources
+C:\Graphics Package\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Properties.Resources.resources
+C:\Graphics Package\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.GenerateResource.cache
+C:\Graphics Package\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.CoreCompileInputs.cache
+C:\Graphics Package\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.exe
+C:\Graphics Package\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.pdb

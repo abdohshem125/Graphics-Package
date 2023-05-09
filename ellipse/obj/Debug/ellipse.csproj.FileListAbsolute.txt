@@ -1,0 +1,22 @@
+C:\ellipse\bin\Debug\ellipse.exe.config
+C:\ellipse\bin\Debug\ellipse.exe
+C:\ellipse\bin\Debug\ellipse.pdb
+C:\ellipse\obj\Debug\ellipse.csproj.AssemblyReference.cache
+C:\ellipse\obj\Debug\ellipse.csproj.SuggestedBindingRedirects.cache
+C:\ellipse\obj\Debug\ellipse.Form1.resources
+C:\ellipse\obj\Debug\ellipse.Properties.Resources.resources
+C:\ellipse\obj\Debug\ellipse.csproj.GenerateResource.cache
+C:\ellipse\obj\Debug\ellipse.csproj.CoreCompileInputs.cache
+C:\ellipse\obj\Debug\ellipse.exe
+C:\ellipse\obj\Debug\ellipse.pdb
+C:\Graphics Package\ellipse\bin\Debug\ellipse.exe.config
+C:\Graphics Package\ellipse\bin\Debug\ellipse.exe
+C:\Graphics Package\ellipse\bin\Debug\ellipse.pdb
+C:\Graphics Package\ellipse\obj\Debug\ellipse.csproj.AssemblyReference.cache
+C:\Graphics Package\ellipse\obj\Debug\ellipse.csproj.SuggestedBindingRedirects.cache
+C:\Graphics Package\ellipse\obj\Debug\ellipse.Form1.resources
+C:\Graphics Package\ellipse\obj\Debug\ellipse.Properties.Resources.resources
+C:\Graphics Package\ellipse\obj\Debug\ellipse.csproj.GenerateResource.cache
+C:\Graphics Package\ellipse\obj\Debug\ellipse.csproj.CoreCompileInputs.cache
+C:\Graphics Package\ellipse\obj\Debug\ellipse.exe
+C:\Graphics Package\ellipse\obj\Debug\ellipse.pdb

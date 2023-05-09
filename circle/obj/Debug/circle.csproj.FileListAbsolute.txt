@@ -1,0 +1,22 @@
+C:\circle\bin\Debug\circle.exe.config
+C:\circle\bin\Debug\circle.exe
+C:\circle\bin\Debug\circle.pdb
+C:\circle\obj\Debug\circle.csproj.AssemblyReference.cache
+C:\circle\obj\Debug\circle.csproj.SuggestedBindingRedirects.cache
+C:\circle\obj\Debug\circle.Form1.resources
+C:\circle\obj\Debug\circle.Properties.Resources.resources
+C:\circle\obj\Debug\circle.csproj.GenerateResource.cache
+C:\circle\obj\Debug\circle.csproj.CoreCompileInputs.cache
+C:\circle\obj\Debug\circle.exe
+C:\circle\obj\Debug\circle.pdb
+C:\Graphics Package\circle\bin\Debug\circle.exe.config
+C:\Graphics Package\circle\bin\Debug\circle.exe
+C:\Graphics Package\circle\bin\Debug\circle.pdb
+C:\Graphics Package\circle\obj\Debug\circle.csproj.AssemblyReference.cache
+C:\Graphics Package\circle\obj\Debug\circle.csproj.SuggestedBindingRedirects.cache
+C:\Graphics Package\circle\obj\Debug\circle.Form1.resources
+C:\Graphics Package\circle\obj\Debug\circle.Properties.Resources.resources
+C:\Graphics Package\circle\obj\Debug\circle.csproj.GenerateResource.cache
+C:\Graphics Package\circle\obj\Debug\circle.csproj.CoreCompileInputs.cache
+C:\Graphics Package\circle\obj\Debug\circle.exe
+C:\Graphics Package\circle\obj\Debug\circle.pdb
